@@ -9,3 +9,5 @@ List of resources:
 * GPAL
 * nginx
 * hashicorp vault
+
+
